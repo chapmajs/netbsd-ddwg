@@ -65,7 +65,7 @@ functions. This document attempts to provide such an introduction, to act as the
 necessary glue between the individual parts. Therefore, I will reference external
 documents, particularly section 9 of the NetBSD manual pages in many places.
 This document is mainly based on the experiences I made when I wrote the driver
-`rf(4)` (*R*X01/02 *F*loppy) for the UnixBus / QBus RX211 8" floppy controller.
+`rf(4)` (*R*X01/02 *F*loppy) for the UniBus / QBus RX211 8" floppy controller.
 
 *8" floppy? Those things existed?* Yes. Those were the first floppies, built at
 the end of the 60s / beginning of the 70s. *UniBus / QBus? Whatsdat?* That's the
